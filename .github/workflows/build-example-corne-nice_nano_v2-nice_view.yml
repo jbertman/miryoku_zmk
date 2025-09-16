@@ -13,3 +13,4 @@ jobs:
       alphas: '["qwerty"]'
       nav: '["invertedt"]'
       kconfig: '["CONFIG_ZMK_SLEEP=y\nCONFIG_BT_CTLR_TX_PWR_PLUS_8=y\nCONFIG_ZMK_STUDIO=y\nCONFIG_ZMK_STUDIO_LOCKING=n\n"]'
+      layers: '["flip"]'
