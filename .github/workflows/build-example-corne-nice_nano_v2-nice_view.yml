@@ -12,5 +12,5 @@ jobs:
       shield: '["corne_left nice_view_adapter nice_view","corne_right"]'
       alphas: '["qwerty"]'
       nav: '["invertedt"]'
-      kconfig: '["CONFIG_ZMK_SLEEP=y\nCONFIG_BT_CTLR_TX_PWR_PLUS_8=y\nCONFIG_ZMK_STUDIO=y\nCONFIG_ZMK_STUDIO_LOCKING=n\n"]'
+      kconfig: '["CONFIG_ZMK_POINTING=y\nCONFIG_ZMK_SLEEP=y\nCONFIG_BT_CTLR_TX_PWR_PLUS_8=y\nCONFIG_ZMK_STUDIO=y\nCONFIG_ZMK_STUDIO_LOCKING=n\n"]'
       layers: '["flip"]'
