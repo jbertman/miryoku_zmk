@@ -37,11 +37,11 @@ U_NP,              U_NP,              U_LT(U_FUN, DEL),  U_LT(U_NUM, BSPC), U_LT
 // #define MIRYOKU_KLUDGE_THUMBCOMBOS_LEFT 37 38
 // #define MIRYOKU_KLUDGE_THUMBCOMBOS_RIGHT 39 40
 
-#define MIRYOKU_LAYER_SYM \
-&kp GRAVE,         &kp TILDE,         &kp HASH,          &kp AMPS,          &kp PIPE,          &kp CARET,         &kp LBRC,          &kp RBRC,          &kp LBRACKET,      &kp RBRACKET, \
-&kp EXCL,          &kp UNDERSCORE,    &kp COLON,         &kp EQUAL,         &kp DLLR,          &kp AT,            &kp LPAR,          &kp RPAR,          &kp UNDERSCORE,    &kp SEMI, \
-&kp PRCNT,         &kp QMARK,         &kp ASTRK,         &kp PLUS,          &kp BSLH,          &kp FSLH,          &kp MINUS,         &kp LT,            &kp GT,            &kp DQT, \
-U_NP,              U_NP,              &kp LPAR,          &kp RPAR,          &kp UNDERSCORE,    U_NA,              U_NA,              U_NA,              U_NP,              U_NP
+// #define MIRYOKU_LAYER_SYM \
+// &kp GRAVE,         &kp TILDE,         &kp HASH,          &kp AMPS,          &kp PIPE,          &kp CARET,         &kp LBRC,          &kp RBRC,          &kp LBRACKET,      &kp RBRACKET, \
+// &kp EXCL,          &kp UNDERSCORE,    &kp COLON,         &kp EQUAL,         &kp DLLR,          &kp AT,            &kp LPAR,          &kp RPAR,          &kp UNDERSCORE,    &kp SEMI, \
+// &kp PRCNT,         &kp QMARK,         &kp ASTRK,         &kp PLUS,          &kp BSLH,          &kp FSLH,          &kp MINUS,         &kp LT,            &kp GT,            &kp DQT, \
+// U_NP,              U_NP,              &kp LPAR,          &kp RPAR,          &kp UNDERSCORE,    U_NA,              U_NA,              U_NA,              U_NP,              U_NP
 
 // #define MIRYOKU_LAYER_LIST \
 // MIRYOKU_X(BASE,   "Base") \
